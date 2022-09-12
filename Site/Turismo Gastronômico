@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Style.css">
+    <title>Turismo Gastronômico</title>
+</head>
+<body>
+    <div id="conteúdo">
+        <div align = "center">
+            <h1 class="tituloPrincipal">Turismo Gastronômico</h1>
+            <p><b>Em Caxias do Sul e região</b> </p>
+        </div>
+        <div align="right" id="divBusca" class="formulario">
+            <br>
+            <input type="text" id="txtBusca" placeholder="Buscar..."/>
+            <img src="Imagem/search.png" height="12.75" width="12.75" id="btnBusca" alt="Buscar"/>
+            <br>
+            <br>
+        </div>
+        <p><b> Seja bem vindo ao site que irá mostrar para você os principais restaurantes no ramo turisco da região de Caxias do Sul.
+            <br>
+            Aqui você encontrará opções para os mais diversos gostos, temos culinária italiana, churrascarias, restaurantes vegetarianos e veganos, além de pontos de consumo de bebidas como viniculas e cervejarias.
+            <br>
+            <br>
+            Para ter acessos a essas opções, digite no campo de pesquisa acima as suas preferências.
+            <br>
+            <br>
+            Boa pesquisa.
+        </b>
+        </p>
+        <div id="rodapé">
+            <footer>
+                <br>
+                Rodapé....
+                <br>
+            </footer>
+        </div>
+    </div>
+</body>
+</html>
